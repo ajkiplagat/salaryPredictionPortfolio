@@ -3,7 +3,7 @@ Objective: The Python salary prediction project aims to predict salaries based o
 
 Variables:
 
-1. JobID: Unique identifier for each posting
+1. JobId: Unique identifier for each posting
 2. companyID
 3. jobType
 4. degree
