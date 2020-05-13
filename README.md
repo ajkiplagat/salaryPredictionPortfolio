@@ -17,8 +17,9 @@ The following models will be used to train data. The model with the lowest mean 
 
 1. Linear Regression
 2. Random Forest
-3. K-Nearest Neighbors (kNN)
-4. Principal Component Analysis
+3. Gradient Boosting
+4. K-Nearest Neighbors (kNN)
+
 
 
 
